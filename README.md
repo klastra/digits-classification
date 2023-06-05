@@ -7,3 +7,5 @@ In this dataset, there are ten classes and each class correlates to a specific d
 I will be building a Support Vector Machine model (SVM) and a Long Short-Term Memory (LSTM) model for this project. 
 
 Accuracies will be printed out and determined by a confusion matrix.
+
+Tech Used: Python (libraries: numpy, scikit), TensorFlow, & Keras
