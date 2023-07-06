@@ -9,3 +9,5 @@ I will be building a Support Vector Machine model (SVM) and a Long Short-Term Me
 Accuracies will be printed out and determined by a confusion matrix.
 
 Tech Used: Python (libraries: numpy, scikit), TensorFlow, & Keras
+
+Report Here: https://docs.google.com/document/d/1plHriKvlS1VHEdCbB2KTkWpajMyJP_IhQAfgEgJlPWg/edit?usp=sharing 
